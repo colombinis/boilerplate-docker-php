@@ -1,0 +1,2 @@
+en esta carpeta se copiaran los files del engine de la base de datos
+que se ejecutan desde el contenedor

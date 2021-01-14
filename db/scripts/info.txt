@@ -1,0 +1,1 @@
+en esta carpeta colocar dump.sql que tomara para la creacion de la BD inicial y cada ves que se regenere el container
